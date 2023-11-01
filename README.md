@@ -1,4 +1,3 @@
-### Hi there 👋
 # ¡Hola, soy Andres Sidoruk! 👋
 
 Bienvenido/a a mi perfil de GitHub. Soy un estudiante apasionado de programación, actualmente cursando una tecnicatura en programación. Me especializo en varios lenguajes y tecnologías, incluyendo HTML, Java, Python, JavaScript y CSS.
