@@ -5,7 +5,7 @@ Bienvenido/a a mi perfil de GitHub. Soy un estudiante apasionado de programació
 
 ## Acerca de mí 🌟
 
-- 🎓 Actualmente estoy cursando una tecnicatura en programación en [Nombre de tu institución].
+- 🎓 Actualmente estoy cursando una tecnicatura en programación en la Utn.
 - 💻 Me encanta explorar nuevas tecnologías y desarrollar soluciones creativas a problemas complejos.
 - 🌱 Estoy constantemente aprendiendo y mejorando mis habilidades de programación y desarrollo web.
 
@@ -32,8 +32,8 @@ Bienvenido/a a mi perfil de GitHub. Soy un estudiante apasionado de programació
 
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones emocionantes! No dudes en contactarme:
 
-- 📧 Correo Electrónico: tuemail@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuperfil)
+- 📧 Correo Electrónico: Sidorukandres2@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/andres-sidoruk-49b810288)
 
 ¡Gracias por visitar mi perfil! 😊
 <!--
